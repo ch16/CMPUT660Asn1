@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FaceDetection</string>
+    <string name="title_activity_face">FaceActivity</string>
+    <string name="title_activity_camera">Camera</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_tutorial">TutorialActivity</string>
+</resources>
